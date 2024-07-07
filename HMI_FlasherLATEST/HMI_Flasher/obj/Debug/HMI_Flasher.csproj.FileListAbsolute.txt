@@ -1,0 +1,17 @@
+F:\HMI_Flasher\HMI_Flasher\obj\Debug\HMI_Flasher.csproj.AssemblyReference.cache
+F:\HMI_Flasher\HMI_Flasher\obj\Debug\HMI_Flasher.csproj.CoreCompileInputs.cache
+F:\HMI_Flasher\HMI_Flasher\bin\Debug\HMI_Flasher.exe.config
+F:\HMI_Flasher\HMI_Flasher\bin\Debug\HMI_Flasher.exe
+F:\HMI_Flasher\HMI_Flasher\bin\Debug\HMI_Flasher.pdb
+F:\HMI_Flasher\HMI_Flasher\obj\Debug\HMI_Flasher.exe
+F:\HMI_Flasher\HMI_Flasher\obj\Debug\HMI_Flasher.pdb
+F:\HMI\HMI_Flasher\HMI_Flasher\obj\Debug\HMI_Flasher.csproj.AssemblyReference.cache
+F:\HMI\HMI_Flasher\HMI_Flasher\obj\Debug\HMI_Flasher.csproj.CoreCompileInputs.cache
+F:\HMI\HMI_Flasher\HMI_Flasher\bin\Debug\HMI_Flasher.exe.config
+F:\HMI\HMI_Flasher\HMI_Flasher\bin\Debug\HMI_Flasher.exe
+F:\HMI\HMI_Flasher\HMI_Flasher\bin\Debug\HMI_Flasher.pdb
+F:\HMI\HMI_Flasher\HMI_Flasher\bin\Debug\DLLProject1.dll
+F:\HMI\HMI_Flasher\HMI_Flasher\bin\Debug\DLLProject1.pdb
+F:\HMI\HMI_Flasher\HMI_Flasher\obj\Debug\HMI_Flasher.csproj.CopyComplete
+F:\HMI\HMI_Flasher\HMI_Flasher\obj\Debug\HMI_Flasher.exe
+F:\HMI\HMI_Flasher\HMI_Flasher\obj\Debug\HMI_Flasher.pdb
